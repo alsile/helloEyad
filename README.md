@@ -7,7 +7,7 @@
     - tap a button to change the text string to update the label with the text from the text field.    
     
 ### App Walk-though
-<img src="https://recordit.co/yyedfcSrQi" width=200><br>
+<img src="http://g.recordit.co/yyedfcSrQi.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
